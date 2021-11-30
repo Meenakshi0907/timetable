@@ -70,8 +70,8 @@ Execute the program
  </tr>
  <tr>
              <td>Wednesday</td>
-             <td>Soft skills</td>
-             <td>Soft skills</td>
+             <td>-</td>
+             <td>-</td>
              <td>Python Programming </td>
              <td>Python Programming</td>
              <th>Lunch</th>
